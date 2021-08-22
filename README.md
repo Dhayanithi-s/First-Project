@@ -1,2 +1,2 @@
 # First-Project
-I'd done my first UI design project. I created a login | signup screen for my client. 
+I'd done my first iOS basic app using Swift.
